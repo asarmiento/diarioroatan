@@ -1,0 +1,6 @@
+[02-May-2016 18:11:11 America/Chicago] PHP Fatal error:  Call to undefined function db_insert() in /home/diarioroatanhn/public_html/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php on line 2
+[11-May-2016 17:21:20 America/Chicago] PHP Fatal error:  Call to undefined function db_insert() in /home/diarioroatanhn/public_html/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php on line 2
+[21-May-2016 13:25:13 America/Chicago] PHP Fatal error:  Call to undefined function db_insert() in /home/diarioroatanhn/public_html/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php on line 2
+[01-Jun-2016 10:26:06 America/Chicago] PHP Fatal error:  Call to undefined function db_insert() in /home/diarioroatanhn/public_html/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php on line 2
+[20-Jun-2016 15:24:16 America/Chicago] PHP Fatal error:  Call to undefined function db_insert() in /home/diarioroatanhn/public_html/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php on line 2
+[30-Jun-2016 04:29:27 America/Chicago] PHP Fatal error:  Call to undefined function db_insert() in /home/diarioroatanhn/public_html/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php on line 2
